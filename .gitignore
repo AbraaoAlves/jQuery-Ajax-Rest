@@ -157,5 +157,5 @@ $RECYCLE.BIN/
 _Chutzpah*
 
 #VisualStudio solution and project
-*.sln
-*.csproj
+#*.sln
+#*.csproj
