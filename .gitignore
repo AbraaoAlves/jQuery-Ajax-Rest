@@ -155,3 +155,7 @@ $RECYCLE.BIN/
 
 # Chutzpah Test files
 _Chutzpah*
+
+#VisualStudio solution and project
+*.sln
+*.csproj
